@@ -42,3 +42,13 @@ no changes added to commit (use "git add" and/or "git commit -a")
 - `cd`: To change current directory to new directory.
 - `code`: To open new directory in Visual Studio Code.
 - `ls`: To take record of the files in the directory.
+
+
+## Why Version Control is Important
+
+With version control, it is possible to:
+
+- Track, make changes and compare different diectory.
+- Work on a group project without conflit.
+- Identify and understand previous annotated changes.
+- Combine changes made by different group members.
