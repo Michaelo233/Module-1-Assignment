@@ -73,3 +73,12 @@ Git repository's history.
 - `git merge`: To allow users to combine changes from different branches 
 to a single branch.
 - `git checkout`: To allow users to switch between different branches.
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- My Talent.
+- My mentality.
+- My passion.
+- My dreams.
